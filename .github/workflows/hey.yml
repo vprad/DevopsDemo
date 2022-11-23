@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/pradeepcv/Devops-demo
             azure-pipeline-name: 'Devops-demo-CI'
-            azure-devops-token: ${{ secrets.kyzw7kh7typ7ixvyz55qrnqv3wfs5se6orbosqz3fgv7nhcc5lcq }}
+            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
